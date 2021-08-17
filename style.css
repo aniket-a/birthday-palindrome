@@ -1,0 +1,22 @@
+div{
+  border:5px solid orange;
+}
+body{
+background-color:plum;
+background-position: center;
+}
+h1{
+  background-color: gold;
+  border-radius: 45px 45px;
+  color: purple;
+}
+input{
+  border-radius: 45px 50px;
+}
+button{
+  border-radius: 65px 25px;
+  padding: 4px;
+}
+p{
+color: purple;
+}
